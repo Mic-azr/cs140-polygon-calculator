@@ -1,0 +1,67 @@
+Welcome to my awesome math helper program
+-----------------------------------------
+
+Please enter the first side length of the triangle: 23
+Please enter the second side length of the triangle: 34
+Please enter the side length of the third side of the triangle: 45
+The three side lengths of the triangle are 23.00, 34.00, 45.00
+First Angle in degrees:  102.56
+Second Angle in degrees: 29.93
+Third Angle in degrees:  47.52
+The area of the triangle: 381.65 square units
+The circumference of the triangle: 102.00
+-------------------------------------------
+
+
+Pentagon (5 sided polygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular pentagon: 20
+The side length of the regular pentagon: 20.00
+The circumference of the regular pentagon: 100.00
+The area of the regular pentagon (with side length 20.00): 688.19 square units
+------------------------------------------------------------------------------
+
+
+Hexagon (6 sided polygon) area and circumference
+------------------------------
+Enter the side length of the regular hexagon: 20
+The side length of the regular hexagon: 20.00
+The circumference of the regular hexagon: 120.00
+The area of the regular hexagon (with side length 20.00): 1039.23 square units
+-----------------------------------------------------------------------------
+
+
+Heptagon (7 sided polygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular heptagon: 20
+The side length of the regular Heptagon: 20.00
+The circumference of the regular Heptagon: 140.00
+The area of the regular heptagon (with side length 20.00): 1453.56 square units
+------------------------------------------------------------------------------
+
+
+Octagon (8 sided polygon) area and circumference
+------------------------------------------------
+Enter the side length of the regular octagon: 20
+The side length of the regular octagon: 20.00
+The circumference of the regular octagon: 160.00
+The area of the regular octagon (with side length 20.00): 1931.37 square units
+-----------------------------------------------------------------------------
+
+
+Nonagon (9 sided polygon) area and circumference
+------------------------------------------------
+Enter the side length of the regular nonagon: 20
+The side length of the regular nonagon: 20.00
+The circumference of the regular nonagon: 180.00
+The area of the regular nonagon (with side length 20.00): 2472.73 square units
+-----------------------------------------------------------------------------
+
+
+Decagon (10 sided ploygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular decagon: 20
+The side length of the regular decagon: 20.00
+The circumference of the regular decagon: 200.00
+The area of the regular decagon (with side length 20.00): 3077.68 square units
+-----------------------------------------------------------------------------

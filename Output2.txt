@@ -1,0 +1,74 @@
+Welcome to my awesome math helper program
+-----------------------------------------
+
+Please enter the first side length of the triangle: 34.5
+Please enter the second side length of the triangle: 78.2
+Please enter the side length of the third 
+side of the triangle: 56.3
+The three side lengths of the triangle are 34.50, 78.20, 56.30
+First Angle in degrees:  39.96
+Second Angle in degrees: 23.18
+Third Angle in degrees:  116.86
+The area of the triangle: 866.38 square units
+The circumference of the triangle: 169.00
+-------------------------------------------
+
+
+Pentagon (5 sided polygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular pentagon: 34.67
+The side length of the regular pentagon: 34.67
+The circumference of the regular pentagon: 173.35
+The area of the regular pentagon 
+(with side length 34.67): 2068.03 square units
+------------------------------------------------------------------------------
+
+
+Hexagon (6 sided polygon) area and circumference
+------------------------------------------------
+Enter the side length of the regular hexagon: 12.56
+The side length of the regular hexagon: 12.56
+The circumference of the regular hexagon: 75.36
+The area of the regular hexagon 
+(with side length 12.56): 409.86 square units
+-----------------------------------------------------------------------------
+
+
+Heptagon (7 sided polygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular heptagon: 87.1
+The side length of the regular Heptagon: 87.10
+The circumference of the regular Heptagon: 609.70
+The area of the regular heptagon 
+(with side length 87.10): 27568.35 square units
+------------------------------------------------------------------------------
+
+
+Octagon (8 sided polygon) area and circumference
+------------------------------------------------
+Enter the side length of the regular octagon: 56.23
+The side length of the regular octagon: 56.23
+The circumference of the regular octagon: 449.84
+The area of the regular octagon 
+(with side length 56.23): 15266.58 square units
+-----------------------------------------------------------------------------
+
+
+Nonagon (9 sided polygon) area and circumference
+------------------------------------------------
+Enter the side length of the regular nonagon: 10.4
+The side length of the regular nonagon: 10.40
+The circumference of the regular nonagon: 93.60
+The area of the regular nonagon 
+(with side length 10.40): 668.63 square units
+-----------------------------------------------------------------------------
+
+
+Decagon (10 sided ploygon) area and circumference
+-------------------------------------------------
+Enter the side length of the regular decagon: 21.98
+The side length of the regular decagon: 21.98
+The circumference of the regular decagon: 219.80
+The area of the regular decagon 
+(with side length 21.98): 3717.23 square units
+-----------------------------------------------------------------------------
