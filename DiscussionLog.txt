@@ -1,0 +1,6 @@
+Michael Cummings
+2/19/20
+CS-140
+Project 2 Discussion Log
+
+I found two sections of this project particularly challenging, specifically calculating the areas of the heptagon and the nonagon. Mainly, I grappled with how to program the function of cotangent into Java and get the correct result. I spent a fairly long amount of time troubleshooting, before I realized I was doing integer division with the fractions at the beginnings of the formula. I believe this was part of the cause of my incorrect outputs. I also spent a while trying to get the right output with the Math.atan() method, but I found a simpler solution was to simply use 1.0 / Math.tan(). Looking at the student responses on Piazza also taught me I was converting my triangle angles into degrees incorrectly. The solution I initially found was to multiply the result of using the Law of Cosines by 180 / pi, which did give me the correct number. However, I could achieve the same output by using the Math.toDegrees() method. I learned how to properly use the printf method and create format statements. I spent a good few minutes wondering why my doubles wouldn't print correctly formatted, when I found that the correct way to type the format statement was %.2f, rather than %f.2.
